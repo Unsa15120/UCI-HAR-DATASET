@@ -1,4 +1,4 @@
-## CODE BOOK
+## CODEBOOK 
 
 The **run_analysis.R** script perform the data preparation and then followed by the **5 steps** required as described in the course assignment definition.
 
