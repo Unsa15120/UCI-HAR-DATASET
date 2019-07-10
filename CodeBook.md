@@ -6,7 +6,7 @@ The **run_analysis.R** script perform the data preparation and then followed by 
 * Through url dataset is downloaded and then extracted under the folder called **UCI HAR DATASET**.
 
 ## 2. Assigning variables to each data
-* **features** <- **features.txt ** : File has *561 rows and 2 columns :* The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
+* **features** <- **features.txt** : File has *561 rows and 2 columns :* The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
 * **activities** <- **activity_labels.txt** : File has *6 rows and 2 columns :* List of activities performed when the corresponding measurements were taken and its codes (labels).
 * **xTest** <- **test/X_test.txt** : File has *2947 rows and 561 columns :* Contains recorded features test data.
 * **yTest** <- **test/y_test.txt** : File has *2947 rows and 1 columns :* Contains test data of activities code labels.
